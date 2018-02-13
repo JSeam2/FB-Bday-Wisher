@@ -1,4 +1,4 @@
-#Automated FB birthday wisher
+# Automated FB birthday wisher
 ## Smarter and Better Insincerity in the 21th Century
 
 1. We won't use facebook graph api as it is currently quite restrictive in the information you can access. You can't get all your friends birthday from what I have tried via "me/friends?fields=id,name,birthday". The second alternative is to follow https://www.facebook.com/help/152652248136178 to get the birthday data. I recommend exploring the functionalities of the graph api via "https://developers.facebook.com/tools/explorer/"
